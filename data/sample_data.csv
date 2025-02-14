@@ -1,0 +1,9 @@
+project_size,workforce,weather_risk,supply_chain_risk,energy_usage,equipment_usage,budget_utilization,risk_of_delay
+100,50,0,1,500,70,60,1
+200,100,1,0,800,90,80,0
+150,75,0,1,600,80,70,1
+300,150,1,1,1000,95,90,1
+250,125,1,0,900,85,85,0
+120,60,0,0,550,75,65,0
+180,90,1,1,700,88,75,1
+220,110,0,0,750,82,78,0

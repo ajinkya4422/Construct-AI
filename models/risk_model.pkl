@@ -1,0 +1,9 @@
+import joblib
+from sklearn.ensemble import RandomForestClassifier
+
+# Train the model (example)
+model = RandomForestClassifier()
+model.fit(X_train, y_train)
+
+# Save the model
+joblib.dump(model, 'models/risk_model.pkl')
