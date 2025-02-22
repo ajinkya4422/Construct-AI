@@ -17,7 +17,7 @@ pairs = [
     ],
     [
         r"what is the energy consumption",
-        ["Energy consumption is being monitored closely. You can view the energy usage details on the Project Insights page."]
+        ["We are closely monitoring energy consumption to ensure optimal efficiency and sustainability throughout the project. Our system continuously tracks energy usage patterns, helping us identify areas where improvements can be made..Real-time energy consumption data for different project phases.The Project Insights page provides a detailed overview of energy usage, including historical trends, real-time data, and alerts for unusual spikes. By leveraging these insights, we can take proactive measures to reduce energy waste and enhance overall project performance. "]
     ],
     [
         r"how can I upload documents",

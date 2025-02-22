@@ -1,0 +1,4 @@
+project,workers_needed,machines_needed,priority
+Project A,50,10,3
+Project B,30,5,2
+Project C,20,8,1

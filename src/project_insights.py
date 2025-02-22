@@ -1,11 +1,11 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from src.risk_analysis import get_risk_data
-from src.supply_chain import get_supply_chain_data
-from src.labor_scheduler import get_workforce_data
-from src.budget_tracker import get_budget_data
-from src.energy_monitor import get_energy_data
+from risk_analysis import get_risk_data
+from supply_chain import get_supply_chain_data
+from labor_scheduler import get_workforce_data
+from budget_tracker import get_budget_data
+from energy_monitor import get_energy_data
 
 def project_insights_page():
     st.title("ConstructAI: Project Insights")

@@ -1,0 +1,2 @@
+from predictive_maintenance import train_predictive_model
+train_predictive_model()
