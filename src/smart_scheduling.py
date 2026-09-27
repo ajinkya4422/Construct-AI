@@ -14,6 +14,7 @@ def smart_scheduling_page():
     - **Automatically adjust deadlines** if delays occur.
     - **Provide recovery plans** to get back on track.
     - **Manage multiple construction projects** efficiently.
+    - **Visualize project timelines** with Gantt charts and bar charts.
     """)
 
     # Sample Data for Tasks

@@ -8,7 +8,7 @@ def home_page():
     if "notifications" not in st.session_state:
         st.session_state.notifications = [
             "New safety guidelines have been issued. Please review them.",
-            "The project deadline has been extended by 2 weeks.",
+            "The project deadline has been extended by 2 weeks. Thanks for your hard work!",
             "Upcoming maintenance on equipment scheduled for next Monday."
         ]
 
